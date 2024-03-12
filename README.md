@@ -6,7 +6,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Kaio.ZeraH/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCD9R3UcObbYJf6CCczszZ9Q)
 
-!KaioZeraH GitHub stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaioZeraH&theme=holi&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaioZeraH)](https://github.com/anuraghazra/github-readme-stats)
 
