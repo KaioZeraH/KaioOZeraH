@@ -14,7 +14,11 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaioZeraH&theme=holi&show_icons=true)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaioZeraH&theme=midnight-purple&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaioZeraH&layout=compact)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaioZeraH)](https://github.com/anuraghazra/github-readme-stats)
 
